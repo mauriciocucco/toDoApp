@@ -2,7 +2,7 @@
 
 Éste proyecto corresponde a la tercera app que desarollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Es una app para celulares que sirve para anotar tareas a realizar (lista de deseos con items a completar).
 
-Se encuentra hecha con **Ionic** (versión 6.12.3) y **Angular CLI** (versión 11.0.4.). Para su instalación:
+Se encuentra hecha con **Bootstrap**(versión 5.0.0-beta1), **Ionic** (versión 6.12.3) y **Angular CLI** (versión 11.0.4.). Para su instalación:
 
 ```bash
 npm install -g @ionic/cli
